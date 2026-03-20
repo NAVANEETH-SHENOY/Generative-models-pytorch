@@ -1,2 +1,5 @@
 data/ 
 *.pth 
+*.pth 
+data/ 
+.ipynb_checkpoints/ 
